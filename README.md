@@ -49,3 +49,4 @@ Positive upward trend in Profit, Sales, and Quantity projections for 2018.
 
 ## DashBoard
 <img width="1225" height="601" alt="Dashboard" src="https://github.com/bhavukgupta321/Sales_Metrics_Monitor/blob/main/DashBoard_1.png" />
+<img width="1225" height="601" alt="Dashboard" src="https://github.com/bhavukgupta321/Sales_Metrics_Monitor/blob/main/DashBoard_2.png" />
